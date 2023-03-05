@@ -1,0 +1,12 @@
+=============== Mar 4, 2023 (GMT) ===============
+17:31:53.688057 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+17:31:53.697994 db@open opening
+17:31:53.700587 version@stat F·[] S·0B[] Sc·[]
+17:31:53.705986 db@janitor F·2 G·0
+17:31:53.706104 db@open done T·8.065112ms
+=============== Mar 5, 2023 (GMT) ===============
+16:47:07.106544 memdb@flush N·16521 S·3MiB
+16:47:07.214484 memdb@flush created L0@3 N·16521 S·1MiB "abc..y:1,v14":"val..999,v3999"
+16:47:07.214681 version@stat F·[1] S·1MiB[1MiB] Sc·[0.25]
+16:47:07.220360 memdb@flush committed F·1 T·111.2515ms
+16:47:07.238683 journal@remove removed @1
